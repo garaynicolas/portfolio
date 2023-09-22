@@ -1,6 +1,6 @@
 # Portfolio Personal 
 
-Portfolio desarrollado en: REACT / JAVASCRIPT / JAVA / SPRING / MYSQL
+Portfolio desarrollado con: REACT / JAVASCRIPT / JAVA / SPRING / MYSQL
 
 Alojado en servidores de prueba de AWS 
 
