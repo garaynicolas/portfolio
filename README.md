@@ -1,8 +1,8 @@
-# React + Vite
+# Portfolio Personal 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio desarrollado en: REACT / JAVASCRIPT / JAVA / SPRING / MYSQL
 
-Currently, two official plugins are available:
+Alojado en servidores de prueba de AWS 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dominio provisorio: http://6-user-app.s3-website-sa-east-1.amazonaws.com
+
